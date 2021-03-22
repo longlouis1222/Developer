@@ -1,0 +1,235 @@
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csprojAssemblyReference.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfoInputs.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfo.cs
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.exe
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.deps.json
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.json
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.dev.json
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.DEMO.API.styles.css
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CopyComplete
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.genruntimeconfig.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.Properties.Resources.resources
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.GenerateResource.cache
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WDT2020-Ms2\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.exe
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.deps.json
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.json
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.dev.json
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csprojAssemblyReference.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.Properties.Resources.resources
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.GenerateResource.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfoInputs.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfo.cs
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.DEMO.API.styles.css
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CopyComplete
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\CodeWeb\WDT2020\New folder\Devoloper\DemoAPI\MISA.DEMO.API\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.genruntimeconfig.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.exe
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.deps.json
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.json
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.dev.json
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csprojAssemblyReference.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.Properties.Resources.resources
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.GenerateResource.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfoInputs.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfo.cs
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.DEMO.API.styles.css
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CopyComplete
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+E:\CodeWeb\WDT2020\New folder\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.genruntimeconfig.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.exe
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.deps.json
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.json
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.dev.json
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csprojAssemblyReference.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.Properties.Resources.resources
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.GenerateResource.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfoInputs.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfo.cs
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.DEMO.API.styles.css
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CopyComplete
+D:\Tài liệu\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.genruntimeconfig.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.exe
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.deps.json
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.json
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.runtimeconfig.dev.json
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csprojAssemblyReference.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.Properties.Resources.resources
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.GenerateResource.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfoInputs.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.AssemblyInfo.cs
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\MISA.DEMO.API.styles.css
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.csproj.CopyComplete
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.dll
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.pdb
+D:\Study Document\Wd-2020\Developer\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\netcoreapp3.1\MISA.DEMO.API.genruntimeconfig.cache

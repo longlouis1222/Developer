@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.DEMO.API", "MISA.DEMO.API\MISA.DEMO.API.csproj", "{484D3719-2045-4046-8833-70B5804F4431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484D3719-2045-4046-8833-70B5804F4431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484D3719-2045-4046-8833-70B5804F4431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484D3719-2045-4046-8833-70B5804F4431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484D3719-2045-4046-8833-70B5804F4431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFC21B7-7707-4C0D-AE6C-EA0A80BD02D7}
+	EndGlobalSection
+EndGlobal
