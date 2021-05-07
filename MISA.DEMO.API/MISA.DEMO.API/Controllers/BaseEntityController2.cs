@@ -61,14 +61,24 @@ namespace MISA.DEMO.API.Controllers
         /// API thực hiện lấy danh sách nhân viên qua someInfo
         /// </summary>
         /// <param name="ContainInfo"></param>
-        /// <param name="DepartmentId"></param>
-        /// <param name="PositionId"></param>
         /// <returns></returns>
         /// CreatedBy: NHLONG (30/12/2020)
         [HttpGet("search")]
-        public IActionResult Get([FromQuery] string ContainInfo, Guid? PositionId, Guid? DepartmentId, int StartRow, int NumberPage)
+        public IActionResult Get2([FromQuery] string ContainInfo)
         {
-            return Ok(_dbConnector.getDataBySomeInfo<TEntity>(ContainInfo, PositionId, DepartmentId));
+            return Ok(_dbConnector.GetDataBySomeInfo<TEntity>(ContainInfo));
+        }
+
+        /// <summary>
+        /// API thực hiện lấy danh sách nhân viên qua PositionId và DepartmentId
+        /// </summary>
+        /// <param name="PositionInfo"></param>
+        /// <param name="DepartmentInfo"></param>
+        /// <returns></returns>
+        [HttpGet("filter")]
+        public IActionResult Get2([FromQuery] Guid? PositionInfo, Guid? DepartmentInfo)
+        {
+            return Ok(_dbConnector.GetDataByPositionAndDepartment<TEntity>(PositionInfo,DepartmentInfo));
         }
 
         /// <summary>
@@ -87,7 +97,7 @@ namespace MISA.DEMO.API.Controllers
 
         // PUT api/<EmployeesController>/5
         [HttpPut]
-        public virtual IActionResult Put([FromBody] TEntity entity)
+        public virtual IActionResult Put2([FromBody] TEntity entity)
         {
             return Ok(_dbConnector.Update<TEntity>(entity));
         }
