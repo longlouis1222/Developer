@@ -82,21 +82,35 @@ namespace MISA.DEMO.API.Data
         /// </summary>
         /// <typeparam name="TEntity"></typeparam>
         /// <param name="ContainInfo"></param>
-        /// <param name="DepartmentId"></param>
-        /// <param name="PositionId"></param>
         /// <returns></returns>
         /// CreatedBy: NHLONG (30/12/2020)
-        public IEnumerable<TEntity> getDataBySomeInfo<TEntity>(string ContainInfo, Guid? PositionId, Guid? DepartmentId)
+        public IEnumerable<TEntity> GetDataBySomeInfo<TEntity>(string ContainInfo)
+        {
+            string className = typeof(TEntity).Name;
+            var storeName = $"Proc_Get{className}ByCodeOrName";
+            var parameters = new DynamicParameters();
+            parameters.Add($"@ContainInfo", ContainInfo != null ? ContainInfo : string.Empty);
+            var selectObject = _dbConnection.Query<TEntity>(storeName, parameters, commandType: CommandType.StoredProcedure);
+            return selectObject;
+        }
+        /// <summary>
+        /// Lấy thông tin qua PositionId và DepartmentId
+        /// </summary>
+        /// <typeparam name="TEntity"></typeparam>
+        /// <param name="PositionInfo"></param>
+        /// <param name="DepartmentInfo"></param>
+        /// <returns></returns>
+        public IEnumerable<TEntity> GetDataByPositionAndDepartment<TEntity>(Guid? PositionInfo, Guid? DepartmentInfo)
         {
             string className = typeof(TEntity).Name;
             var storeName = $"Proc_Get{className}ByInfo";
             var parameters = new DynamicParameters();
-            parameters.Add($"@EmployeeInfoContains", ContainInfo != null ? ContainInfo : string.Empty);
-            parameters.Add($"@DepartmentId", DepartmentId != null ? DepartmentId.ToString() : null);
-            parameters.Add($"@PositionId", PositionId != null ? PositionId.ToString() : null);
+            parameters.Add($"@PositionInfo", PositionInfo != null ? PositionInfo.ToString() : null);
+            parameters.Add($"@DepartmentInfo", DepartmentInfo != null ? DepartmentInfo.ToString() : null);
             var selectObject = _dbConnection.Query<TEntity>(storeName, parameters, commandType: CommandType.StoredProcedure);
             return selectObject;
         }
+
         /// <summary>
         /// Thêm thông tin
         /// </summary>
